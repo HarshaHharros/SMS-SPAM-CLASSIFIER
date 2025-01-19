@@ -16,8 +16,8 @@ This project focuses on detecting spam messages using machine learning models. T
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/HarshaHharros/SMS-SPAM-CLASSIFIER/tree/main
+   cd SMS-SPAM-CLASSIFIER
    ```
 
 2. Create and activate a virtual environment:
